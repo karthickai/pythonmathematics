@@ -1,2 +1,1 @@
-# pythonmathematics
-Python Mathematics
+# Python Mathematics
